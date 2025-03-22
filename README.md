@@ -5,9 +5,13 @@
 📌 Project Overview : 
 
 This interactive dashboard helps in monitoring production efficiency by visualizing key metrics, including:
+
 ✅ Total Production Cost by Product Type 💰
+
 ✅ Task Distribution Among Managers 📋
+
 ✅ Units Produced by Year/Month 📆
+
 ✅ Average Production Cost per Unit 📊
 
 🖼️ Screenshots : 
