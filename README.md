@@ -21,6 +21,9 @@ A visually rich dashboard with key production insights.
 
 ![image](https://github.com/user-attachments/assets/bf4ff585-83fd-4445-ae60-bf7d1e386278)
 
+![image](https://github.com/user-attachments/assets/64169c2c-61e5-4233-a559-20b2bab791d4)
+
+
 
 📊 Features: 
 
