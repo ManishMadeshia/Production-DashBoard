@@ -1,4 +1,4 @@
-#🏭 Production Dashboard & Data Analysis
+🏭 #Production Dashboard & Data Analysis
 
 🔹 Welcome to the Production Dashboard! This project provides an insightful analysis of production costs, task distribution, and unit output trends using Microsoft Excel/WPS Office.
 
