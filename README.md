@@ -1,8 +1,9 @@
-🏭 #Production Dashboard & Data Analysis
+🏭 Production Dashboard & Data Analysis
 
 🔹 Welcome to the Production Dashboard! This project provides an insightful analysis of production costs, task distribution, and unit output trends using Microsoft Excel/WPS Office.
 
-📌 Project Overview
+📌 Project Overview : 
+
 This interactive dashboard helps in monitoring production efficiency by visualizing key metrics, including:
 ✅ Total Production Cost by Product Type 💰
 ✅ Task Distribution Among Managers 📋
@@ -17,7 +18,8 @@ A visually rich dashboard with key production insights.
 ![image](https://github.com/user-attachments/assets/bf4ff585-83fd-4445-ae60-bf7d1e386278)
 
 
-📊 Features
+📊 Features: 
+
 📈 Total Production Cost Breakdown – Analysis across product categories
 
 👤 Task Management – Tasks assigned per manager
@@ -26,7 +28,9 @@ A visually rich dashboard with key production insights.
 
 💰 Cost Per Unit Analysis – Cost efficiency of different product types
 
-🔧 Tools Used
+
+🔧 Tools Used : 
+
 Microsoft Excel / WPS Office
 
 Pivot Tables & Charts
